@@ -1,0 +1,84 @@
+# ledlink — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://ledlink-f33aac7b.zappy5.app
+
+### Guidance
+https://ledlink-f33aac7b.zappy5.app/guidance
+
+### About
+https://ledlink-f33aac7b.zappy5.app/about
+
+### Contact
+https://ledlink-f33aac7b.zappy5.app/contact
+
+### Products
+https://ledlink-f33aac7b.zappy5.app/products
+Our Products - ledlink
+
+### Cart
+https://ledlink-f33aac7b.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://ledlink-f33aac7b.zappy5.app/checkout
+Checkout
+
+### Login
+https://ledlink-f33aac7b.zappy5.app/login
+Customer Login
+
+### Account
+https://ledlink-f33aac7b.zappy5.app/account
+My Account
+
+### Order Success
+https://ledlink-f33aac7b.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://ledlink-f33aac7b.zappy5.app/product/:slug
+Product Details - ledlink
+
+### Category
+https://ledlink-f33aac7b.zappy5.app/category/:slug
+Products - ledlink
+
+## Legal & Policy
+
+### Privacy Policy
+https://ledlink-f33aac7b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ledlink-f33aac7b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ledlink-f33aac7b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ledlink
+ledlink is a business in the General industry.
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ledlink-f33aac7b.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ledlink-f33aac7b.zappy5.app/robots.txt

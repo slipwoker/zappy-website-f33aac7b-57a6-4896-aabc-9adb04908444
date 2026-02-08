@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ledlink-f33aac7b.zappy5.app/sitemap.xml
